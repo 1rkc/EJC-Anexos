@@ -17,3 +17,7 @@
 ### ANEXO 4 · APPS Discord
 - [Dyno](https://dyno.gg)
 - [RoManager](https://romanager.bot)
+
+### ANEXO 5 · Externos
+- [Roblox](https://roblox.com)
+- [Discord](https://discord.com)

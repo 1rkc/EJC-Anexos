@@ -1,3 +1,5 @@
+![Fondo](https://ibb.co/YdG5KXr)
+
 # EJC · Anexos
 - Repositorio listado para todas las APIs pertenecientes o relacionadas a EJC · Ejército Nacional de Colombia.
 - Creado por [Rustkly](https://www.roblox.com/es/users/3786112410/profile) el 21 de Octubre del 2024.

@@ -1,4 +1,4 @@
-![Fondo](https://imgur.com/a/WWpW9Ol)
+![Fondo](https://i.imgur.com/DJ4B6qu.gif)
 
 # EJC · Anexos
 - Repositorio listado para todas las APIs pertenecientes o relacionadas a EJC · Ejército Nacional de Colombia.
